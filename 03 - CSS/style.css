@@ -1,0 +1,236 @@
+.cont-0 {
+    margin-top: 100px;
+    display: flex;    
+    background-color: #FFF; 
+    padding: 25px;
+    color: #9A22F0;
+   justify-content: center;
+}
+
+.text-0 {
+    padding: 18px 25px;
+    color: #5e00a1;
+    border: 0px;
+}
+
+.btn-1 {
+    background-color: #ffffff;
+    padding: 5px 15px;
+    color: #9A22F0;
+    border: 0px;
+}
+
+.btn-2 {
+    background-color: #ffffff;
+    padding: 5px 15px;
+    color: #9A22F0;
+    border: 0px;
+}
+
+.btn-3 {
+     background-color: #ffffff;
+     padding: 5px 15px;
+     color: #9A22F0;
+    border: 0px;
+}
+
+.btn-4 {
+    background-color: #ffffff;
+    padding: 5px 15px;
+    color: #9A22F0;
+    border: 0px;
+}
+
+.btn-10 {
+    background-color: #9A22F0;
+    padding: 5px 15px;
+    color: #ffffff;
+    border: 0px;
+}
+
+.header-content {
+   display: flex;
+   justify-content: right;
+}
+
+.header {
+    display: flex;
+    justify-content: end;
+    height:400px;
+
+}
+
+
+.imgs-2 {
+
+    width: 350px;
+    margin-left: 350px; 
+                                                                         
+}
+
+.group {
+    flex-basis: calc(33.3% - 30px);
+    margin-top: 100px;
+    display: flex;    
+    background-color: #FFF; 
+    padding: 25px;
+    color: #9A22F0;
+   justify-content: center;
+}
+
+.btn-5 {
+    background-color:  #9A22F0;
+    padding: 18px 25px;
+    color: #FFF;
+    border: 0px;
+}
+
+
+.selec-6-button {  
+    display: inline block;
+    justify-content: left;
+    background-color: #9A22F0;
+    padding: 15px 25px;
+    color: #FFFF;
+    border: 1px solid #9A22F0; 
+    margin: 35px 10px 0px 0px;
+   
+} 
+
+
+.selec-7-button {
+    display: inline block;
+    background-color: #9A22F0;
+    padding: 15px 25px;
+    color: #FFFF;
+    border: 1px solid #9A22F0; 
+    margin: 35px 10px 0px 0px;
+    border-radius: 25px;
+}
+
+.selec-8-button {
+    display: inline block;
+    background-color: #9A22F0;
+    padding: 15px 25px;
+    color: #FFFF;
+    border: 1px solid #9A22F0;
+    margin: 35px 10px 0px 0px;
+    border-radius: 25px;
+
+}
+
+.selec-9-button {
+    display: inline block;
+    background-color: rgb(138, 43, 226);
+    padding: 15px 25px;
+    color: #FFFF;
+    border: 1px solid #9A22F0;
+    margin: 35px 10px 0px 0px;
+    border-radius: 25px;
+}
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+
+h1 {
+    color: #4B0082;
+}
+
+p {
+    color: #8B008B;
+}
+
+h4 {
+    color: #4B0082;
+}
+ 
+h3 {
+    color: #4B0082;
+}
+
+h2 {
+    color: #4B0082;
+}
+
+h5 {
+    color: #8B008B;
+}
+
+.img-1 {
+    fill:  rgb(138, 43, 226) !important;
+}
+
+.mg-2 {
+    fill:  rgb(138, 43, 226) !important;
+}
+
+.img-3 {
+    fill:  rgb(138, 43, 226) !important;
+}
+
+.content {
+
+    display: flex;
+
+}
+
+.imgs-11 {
+    width: 600px;
+    height: 450px;
+    margin-right: 50px;
+}
+
+.servi-0 {
+    fill:  rgb(138, 43, 226) !important;
+}
+
+.servi-0 {
+    flex-basis: calc(33.3% - 30px);
+    margin-top: 100px;
+    display: flex;    
+    background-color: #FFF; 
+    padding: 25px;
+    color: #9A22F0;
+   justify-content: right;
+}
+
+.contene {
+    display: flex;
+    justify-content: right;
+}
+ 
+.imgs-4 {
+ 
+    width: 350px;
+    margin-left: 350px;  
+}
+
+.group-1 {
+    display: flex;
+    padding-right: 25px;
+
+}
+
+.phone-call {
+    display: flex;
+    padding: right;
+}
+
+.phone {
+   display: flex;
+   padding: right;
+
+}
+
+
+.vac {
+    display: flex;
+    
+}
+
+.services {
+    margin-top: 100px;
+    display: flex;     
+    padding: 25px;
+    color: #000000;
+    justify-content: center;
+}
