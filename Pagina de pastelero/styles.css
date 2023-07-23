@@ -1,0 +1,170 @@
+body {
+    background: linear-gradient(to right,violet, rgb(0, 191, 255));
+  }
+
+
+  .body {
+    text-align: center;
+}
+
+.body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+  
+  .image {
+    background-image: url("image/Logo osito.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 150px;
+    width: 150px;
+    color: #000000;
+    margin-right: 50px;
+  
+  }
+
+.image {
+   align-self: flex-start;
+}
+
+.image { 
+ width: 120;
+ height: 120px;
+ text-align: left;
+}
+
+* {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+ text-decoration: none;
+ list-style: none;
+}
+
+.body {
+ font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.co-3 {
+   max-width: 1200px;
+   margin: 0 auto;      
+}
+
+.co-4 {
+  min-height: 80px;
+  background: #1E90FF;
+  padding: 25px; 
+  margin-top: 55px;         
+}
+
+
+
+.menu {
+ position: absolute;
+ top: 10px;
+ left: 0;
+ right: 0;
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+}
+
+.logo {
+  font-size: 25px;
+  color: #FF69B4;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.menu .navbar ul li {
+ position: relative;
+ float: left;
+}
+
+.menu .navbar ul li {
+ font-size: 18px;
+ padding: 20px;
+ color: #ffffff;
+ display: block;
+ font-weight: bold;
+}
+
+.menu .navbar ul li {
+ color: #1E90FF;
+}
+
+.menu {
+ display: none;
+} 
+
+.menu-icono {
+ width: 25px; 
+}
+
+
+.menu label {
+ cursor: pointer;
+ display: none;
+}
+
+@media(max-width:991px) {
+   .content {
+     min-height: 70px;
+   }
+
+   .none {
+     top: 0;
+     padding: 20px;
+   }
+   
+   .menu label {
+     display: intial;
+   }
+
+   .menu .navbar {
+     position: absolute;
+     top: 100%;
+     left: 0;
+     right: 0;
+     background: #ffffff; 
+     display: none;
+   }
+
+   .menu .navbar ul li  {
+     width: 100%;
+   }
+
+   #menu:checked .navbar {
+     display: intial;
+   }
+
+
+}
+
+.btn-a {
+  background-color: #9A22F0;
+  padding: 18px 25px;
+  color: #FFF;
+  border: 0px;
+  justify-content: center;
+}
+
+.btn-b {
+  background-color: #9A22F0;
+  padding: 18px 25px;
+  color: #FFF;
+  border: 0px;
+  justify-content: center;
+}
+
+
+.btn-d {
+  background-color: #9A22F0;
+  padding: 18px 25px;
+  color: #FFF;
+  border: 0px;
+}
+
+
